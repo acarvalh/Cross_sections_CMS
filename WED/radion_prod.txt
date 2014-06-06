@@ -1,1 +1,6 @@
+This table is for \Lambda_R = 3 TeV, where \Lambda_R is defined in the paper blablas as the radion UV scale. The process is pp>Radion.
+
+The format of the table is:
+mass CX(pb)
+##########################################################
 0 0
