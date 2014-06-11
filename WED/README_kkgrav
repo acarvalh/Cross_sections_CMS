@@ -1,6 +1,2 @@
 The model and signal parametrization is revised in arxiv:1404.0102
-
-To the tables we use ktilda=0.1,
-to have cross section production to a parameter ktilda' from a cross section CX(MGr,ktilda=0.1) you do:
-
-CX(MGr,ktilda') = CX(MGr,ktilda=0.1) * (ktilda/0.1)^2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
