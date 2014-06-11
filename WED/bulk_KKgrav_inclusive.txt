@@ -1,6 +1,16 @@
-p p > kkgrav , p = g
-ktilde = 0.1
-Mass(GeV) CX(pb)
+########################################3
+p p > kkgrav when  p = g to the parameter ktilde = 0.1
+(fully composite top)
+
+the format of the table is:
+
+"Mass(GeV) CX(pb)"
+
+if you want the cross section (CX) using a ktilda' you do
+
+CX(ktilda',pb) = CX(ktilda=0.1,pb) * (ktilda' / 0.1)^2
+
+you can find the decay rates in the file bulk_KKgrav_decay.txt
 ######################################################
 260 0.646404 
 300 0.337959 
