@@ -1,4 +1,4 @@
-The process is pp>Radion. The \LambdaR = 3 TeV
+The process is pp>Radion. Not decaying the radion. The parameter used in the table is \LambdaR = 3 TeV
 
 up to mR = 1 TeV K-factors from HCSWG, mR > 1 TeV K-factor extrapolated as 1.89
 ##########################################################
