@@ -1,7 +1,7 @@
 The process is pp>Radion. Not decaying the radion. The parameter used in the table is \LambdaR = 3 TeV
 
-Up to mR= 1 TeV the K-factors contain NLO EW + NLL QCD corrections from HCSWG, 
-beyond this mass we extrapolate the K-factor as the Kfactor at mR= 1 TeV (k=1.89).
+Up to mR= 1 TeV the calculation is done extrapolating the  (NLO EW + NLL QCD) corrected cross section from HCSWG with radion couplings, 
+beyond this mass we extrapolate the K-factor as the "Kfactor" of the radion calculation at mR= 1 TeV (k=1.89).
 ##########################################################
 The format of the table is: 
                           
