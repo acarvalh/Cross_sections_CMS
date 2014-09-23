@@ -5,11 +5,11 @@ beyond this mass we extrapolate the K-factor as the "Kfactor" of the radion calc
 ##########################################################
 The format of the table is: 
                           
-"mass CX(\LambdaR=3TeV)(pb)"
+"mass CX(\LambdaR=3TeV)(fb)"
 
 if you want the cross section (CX) using a \LambdaR'(TeV) you do
 
-CX(\LambdaR')(pb) = CX(\LambdaR=3TeV)(pb) * (3TeV / \LambdaR'(TeV))^2
+CX(\LambdaR')(pb) = CX(\LambdaR=3TeV)(fb) * (3TeV / \LambdaR'(TeV))^2
 
 by now you can use the radion branching ratios if mR > 400 GeV as [1110.6452]
 
