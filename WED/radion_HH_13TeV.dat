@@ -1,0 +1,70 @@
+The process is pp -> Radion -> HH at 13 TeV
+The parameter used in the table is \LambdaR = 3 TeV
+
+====================================================================================
+The calculation is done extrapolating the cross section from HCSWG with the radion couplings. 
+
+Obtained from YR4 using gg->H cross section. 
+PDF4LHC 15 PDF
+    https://twiki.cern.ch/twiki/bin/view/LHCPhysics/CERNYellowReportPageBSMAt8TeV
+    https://twiki.cern.ch/twiki/bin/view/LHCPhysics/CERNYellowReportPageBSMAt13TeV
+  
+  
+8 TeV cross sections: https://github.com/acarvalh/Cross_sections_CMS/blob/master/WED/radion_inclusive.txt
+Up to mR= 1 TeV the calculation is done extrapolating the  
+(NLO EW + NLL QCD) corrected cross section from HCSWG with radion couplings, 
+for M_X > 1 TeV mass we estimate the cross section assuming as "Kfactor" 
+the ratio ((NLO EW + NLL QCD) with MRST2008 pdf / LO with CTEQ6L ) of the radion calculation at mR= 1 TeV 
+what results in (k=1.89).
+TO BE UPDATED, SINCE NOW THE HXSWG CROSS SECTIONS RUN UP TO MX = 3 TEV
+=====================================================================================
+
+The format of the table is: 
+
+"mass CX(\LambdaR=3TeV)(fb)"
+
+if you want the cross section (CX) using a \LambdaR'(TeV) you do
+
+CX(\LambdaR')(pb) = CX(\LambdaR=3TeV)(fb) * (3TeV / \LambdaR'(TeV))^2
+
+=====================================================================================
+260	2238.55
+280	2376.22
+300	2104.53
+320	1804.82
+340	1540.86
+360	1154.92
+380	896.161
+400	733.914
+450	495.567
+500	362.581
+550	277.513
+600	219.251
+650	177.292
+700	146.142
+750	122.775
+800	104.76
+850	90.6293
+900	79.4959
+950	70.492
+1000	63.1753
+1100	47.5471
+1200	36.3232
+1300	28.0237
+1400	21.8032
+1500	17.0848
+1600	13.4682
+1700	10.6706
+1800	8.48921
+1900	6.77653
+2000	5.42388
+2100	4.35009
+2200	3.49405
+2300	2.80915
+2400	2.25957
+2500	1.81755
+2600	1.46141
+2700	1.17413
+2800	0.942197
+2900	0.754911
+3000	0.603699
