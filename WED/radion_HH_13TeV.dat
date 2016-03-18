@@ -4,7 +4,8 @@ The parameter used in the table is \LambdaR = 3 TeV
 ====================================================================================
 The calculation is done extrapolating the cross section from HCSWG with the radion couplings. 
 
-Obtained from YR4 using gg->H cross section. 
+The luminosity ratio increase when scaling LHC energy to 13 TeV, to a gluon fusion produced scalar, 
+is obtained from YR4 using gg->H cross section:
 PDF4LHC 15 PDF
     https://twiki.cern.ch/twiki/bin/view/LHCPhysics/CERNYellowReportPageBSMAt8TeV
     https://twiki.cern.ch/twiki/bin/view/LHCPhysics/CERNYellowReportPageBSMAt13TeV
