@@ -12,7 +12,7 @@ The format of the table is:
 
 if you want the cross section (CX) using a \LambdaR'(TeV) you do
 
-CX(\LambdaR')(pb) = CX(\LambdaR=3TeV)(fb) * (3TeV / \LambdaR'(TeV))^2
+CX(\LambdaR')(fb) = CX(\LambdaR=3TeV)(fb) * (3TeV / \LambdaR'(TeV))^2
 
 ##########################################################
 129.5 19002.9
